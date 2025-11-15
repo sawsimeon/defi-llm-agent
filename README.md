@@ -4,7 +4,7 @@ An AI agent for DeFi queries: balances, prices, swaps via web3.py, with LLM-gene
 
 ## Quick Start
 1. `pip install -r requirements.txt`
-2. Copy `.env.example` to `.env` and fill keys.
+2. Fill API keys to to `.env`
 3. `python agent.py`
 
 ## Tools
